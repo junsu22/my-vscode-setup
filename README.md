@@ -10,8 +10,7 @@
 - **JetBrains Mono** with ligatures
 
 ### Theme
-- Material Theme
-
+- Material Theme Darker
 ### Extensions
 - Black Formatter
 - GitLens
