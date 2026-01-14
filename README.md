@@ -33,8 +33,6 @@ code --install-extension ms-python.black-formatter
 code --install-extension eamodio.gitlens
 ```
 
-## 📸 Preview
-![setup](screenshots/preview.png)
 
 ## 💡 Tips
 - Format on Save 켜기
